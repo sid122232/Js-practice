@@ -1,0 +1,1 @@
+Two types of scopes are global an
